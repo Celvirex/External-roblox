@@ -1,0 +1,7 @@
+numpy
+requests
+dearpygui
+pymem
+psutil
+PyQt5
+PyOpenGL
