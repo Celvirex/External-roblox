@@ -85,7 +85,7 @@ def cframe_look_at(from_pos, to_pos):
     return look_vector, recalculated_up, right_vector
 
 print('Getting offsets...')
-offsets = get('https://offsets.ntgetwritewatch.workers.dev/offsets.json').json()
+offsets = get('https://raw.githubusercontent.com/Celvirex/External-roblox/refs/heads/main/config.json').json()
 
 setOffsets(int(offsets['Name'], 16), int(offsets['Children'], 16))
 
