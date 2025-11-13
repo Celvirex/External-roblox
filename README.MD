@@ -1,3 +1,3 @@
-#Python cam lock not mine
+# Python cam lock not mine
 
-This came from the ahk land discord made by mappa I think
+This came from the atlas discord 
